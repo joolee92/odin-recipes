@@ -4,3 +4,4 @@ This is my first web development project, in which I am creating a website for r
 
 Content:
 Lasagna recipe: https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/
+Chicken breast recipe: https://www.recipetineats.com/honey-garlic-chicken/
